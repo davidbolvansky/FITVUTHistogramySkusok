@@ -1,4 +1,4 @@
-# FITVUTHistogramySkusok
+# FIT VUT - Histogramy skúšok
 
 ### [PDF](https://github.com/xbolva00/FITVUTHistogramySkusok/blob/master/src/histogramy.pdf)
 
